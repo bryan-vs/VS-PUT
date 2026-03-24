@@ -1,0 +1,30 @@
+# Compiled binary
+printer-monitor
+
+# Object files
+*.o
+*.obj
+
+# Build artifacts
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local configuration (use .example files as templates)
+# Uncomment if you don't want to track local configs:
+# printers.json
+# settings.json

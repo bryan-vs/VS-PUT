@@ -1,0 +1,79 @@
+{
+  "printers": [
+    {
+      "dns": "copieur-bat5.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "copieur-bat12.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "copieur-t1m.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "copieur-bat14-rdc.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "color-bat14-rdc.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "color2-bat14-n1.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "color-bat14-n1-247.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "copieur-bat15.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "copieur-bat16-rdc.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "color-bat16-n1-204.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "copieur-bat16-n1.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "color-bat16-n1-209.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    }, 
+    {
+      "dns": "color-bat17.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "copieur-bat17.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "color-bat18.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    }
+  ]
+}

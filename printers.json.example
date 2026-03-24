@@ -1,0 +1,19 @@
+{
+  "printers": [
+    {
+      "dns": "printer-b5-3.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    },
+    {
+      "dns": "printer-b12-2.obspm.fr",
+      "vendor": "xerox",
+      "community": "public"
+    },
+    {
+      "dns": "printer-b7-1.obspm.fr",
+      "vendor": "konica_minolta",
+      "community": "public"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "low_toner_threshold": 5,
+    "critical_toner_threshold": 3,
+    "default_community": "public"
+  }
+}
